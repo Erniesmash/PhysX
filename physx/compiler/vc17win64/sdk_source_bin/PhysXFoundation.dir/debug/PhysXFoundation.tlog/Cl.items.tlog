@@ -1,0 +1,17 @@
+C:\Source\PhysX\physx\source\foundation\src\PsAllocator.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsAllocator.obj
+C:\Source\PhysX\physx\source\foundation\src\PsAssert.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsAssert.obj
+C:\Source\PhysX\physx\source\foundation\src\PsFoundation.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsFoundation.obj
+C:\Source\PhysX\physx\source\foundation\src\PsMathUtils.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsMathUtils.obj
+C:\Source\PhysX\physx\source\foundation\src\PsString.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsString.obj
+C:\Source\PhysX\physx\source\foundation\src\PsTempAllocator.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsTempAllocator.obj
+C:\Source\PhysX\physx\source\foundation\src\PsUtilities.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsUtilities.obj
+C:\Source\PhysX\physx\source\foundation\src\windows\PsWindowsAtomic.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsWindowsAtomic.obj
+C:\Source\PhysX\physx\source\foundation\src\windows\PsWindowsCpu.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsWindowsCpu.obj
+C:\Source\PhysX\physx\source\foundation\src\windows\PsWindowsFPU.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsWindowsFPU.obj
+C:\Source\PhysX\physx\source\foundation\src\windows\PsWindowsMutex.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsWindowsMutex.obj
+C:\Source\PhysX\physx\source\foundation\src\windows\PsWindowsPrintString.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsWindowsPrintString.obj
+C:\Source\PhysX\physx\source\foundation\src\windows\PsWindowsSList.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsWindowsSList.obj
+C:\Source\PhysX\physx\source\foundation\src\windows\PsWindowsSocket.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsWindowsSocket.obj
+C:\Source\PhysX\physx\source\foundation\src\windows\PsWindowsSync.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsWindowsSync.obj
+C:\Source\PhysX\physx\source\foundation\src\windows\PsWindowsThread.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsWindowsThread.obj
+C:\Source\PhysX\physx\source\foundation\src\windows\PsWindowsTime.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXFoundation.dir\debug\PsWindowsTime.obj

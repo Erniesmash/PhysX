@@ -1,0 +1,9 @@
+C:\Source\PhysX\physx\source\lowlevelaabb\src\BpAABBManager.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\LowLevelAABB.dir\release\BpAABBManager.obj
+C:\Source\PhysX\physx\source\lowlevelaabb\src\BpBroadPhase.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\LowLevelAABB.dir\release\BpBroadPhase.obj
+C:\Source\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseABP.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\LowLevelAABB.dir\release\BpBroadPhaseABP.obj
+C:\Source\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseMBP.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\LowLevelAABB.dir\release\BpBroadPhaseMBP.obj
+C:\Source\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseSap.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\LowLevelAABB.dir\release\BpBroadPhaseSap.obj
+C:\Source\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseSapAux.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\LowLevelAABB.dir\release\BpBroadPhaseSapAux.obj
+C:\Source\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseShared.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\LowLevelAABB.dir\release\BpBroadPhaseShared.obj
+C:\Source\PhysX\physx\source\lowlevelaabb\src\BpMBPTasks.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\LowLevelAABB.dir\release\BpMBPTasks.obj
+C:\Source\PhysX\physx\source\lowlevelaabb\src\BpSAPTasks.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\LowLevelAABB.dir\release\BpSAPTasks.obj

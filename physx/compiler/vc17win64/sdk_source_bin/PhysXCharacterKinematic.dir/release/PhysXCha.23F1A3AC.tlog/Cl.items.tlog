@@ -1,0 +1,10 @@
+C:\Source\PhysX\physx\source\physxcharacterkinematic\src\CctBoxController.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXCharacterKinematic.dir\release\CctBoxController.obj
+C:\Source\PhysX\physx\source\physxcharacterkinematic\src\CctCapsuleController.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXCharacterKinematic.dir\release\CctCapsuleController.obj
+C:\Source\PhysX\physx\source\physxcharacterkinematic\src\CctCharacterController.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXCharacterKinematic.dir\release\CctCharacterController.obj
+C:\Source\PhysX\physx\source\physxcharacterkinematic\src\CctCharacterControllerCallbacks.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXCharacterKinematic.dir\release\CctCharacterControllerCallbacks.obj
+C:\Source\PhysX\physx\source\physxcharacterkinematic\src\CctCharacterControllerManager.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXCharacterKinematic.dir\release\CctCharacterControllerManager.obj
+C:\Source\PhysX\physx\source\physxcharacterkinematic\src\CctController.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXCharacterKinematic.dir\release\CctController.obj
+C:\Source\PhysX\physx\source\physxcharacterkinematic\src\CctObstacleContext.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXCharacterKinematic.dir\release\CctObstacleContext.obj
+C:\Source\PhysX\physx\source\physxcharacterkinematic\src\CctSweptBox.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXCharacterKinematic.dir\release\CctSweptBox.obj
+C:\Source\PhysX\physx\source\physxcharacterkinematic\src\CctSweptCapsule.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXCharacterKinematic.dir\release\CctSweptCapsule.obj
+C:\Source\PhysX\physx\source\physxcharacterkinematic\src\CctSweptVolume.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXCharacterKinematic.dir\release\CctSweptVolume.obj

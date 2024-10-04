@@ -1,0 +1,11 @@
+C:\Source\PhysX\physx\source\pvd\src\PxProfileEventImpl.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXPvdSDK.dir\debug\PxProfileEventImpl.obj
+C:\Source\PhysX\physx\source\pvd\src\PxPvd.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXPvdSDK.dir\debug\PxPvd.obj
+C:\Source\PhysX\physx\source\pvd\src\PxPvdDataStream.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXPvdSDK.dir\debug\PxPvdDataStream.obj
+C:\Source\PhysX\physx\source\pvd\src\PxPvdDefaultFileTransport.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXPvdSDK.dir\debug\PxPvdDefaultFileTransport.obj
+C:\Source\PhysX\physx\source\pvd\src\PxPvdDefaultSocketTransport.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXPvdSDK.dir\debug\PxPvdDefaultSocketTransport.obj
+C:\Source\PhysX\physx\source\pvd\src\PxPvdImpl.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXPvdSDK.dir\debug\PxPvdImpl.obj
+C:\Source\PhysX\physx\source\pvd\src\PxPvdMemClient.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXPvdSDK.dir\debug\PxPvdMemClient.obj
+C:\Source\PhysX\physx\source\pvd\src\PxPvdObjectModelMetaData.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXPvdSDK.dir\debug\PxPvdObjectModelMetaData.obj
+C:\Source\PhysX\physx\source\pvd\src\PxPvdObjectRegistrar.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXPvdSDK.dir\debug\PxPvdObjectRegistrar.obj
+C:\Source\PhysX\physx\source\pvd\src\PxPvdProfileZoneClient.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXPvdSDK.dir\debug\PxPvdProfileZoneClient.obj
+C:\Source\PhysX\physx\source\pvd\src\PxPvdUserRenderer.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\PhysXPvdSDK.dir\debug\PxPvdUserRenderer.obj

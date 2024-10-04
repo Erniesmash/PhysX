@@ -1,0 +1,15 @@
+C:\Source\PhysX\physx\source\scenequery\src\SqAABBPruner.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqAABBPruner.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqAABBTree.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqAABBTree.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqIncrementalAABBPruner.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqIncrementalAABBPruner.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqIncrementalAABBPrunerCore.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqIncrementalAABBPrunerCore.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqIncrementalAABBTree.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqIncrementalAABBTree.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqAABBTreeUpdateMap.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqAABBTreeUpdateMap.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqBounds.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqBounds.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqCompoundPruner.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqCompoundPruner.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqCompoundPruningPool.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqCompoundPruningPool.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqBucketPruner.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqBucketPruner.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqExtendedBucketPruner.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqExtendedBucketPruner.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqMetaData.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqMetaData.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqPruningPool.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqPruningPool.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqPruningStructure.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqPruningStructure.obj
+C:\Source\PhysX\physx\source\scenequery\src\SqSceneQueryManager.cpp;C:\Source\PhysX\physx\compiler\vc17win64\sdk_source_bin\SceneQuery.dir\release\SqSceneQueryManager.obj
