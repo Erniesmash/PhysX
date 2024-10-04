@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Source\PhysX\physx\samples\pxtoolkit\src\PxTkBmpLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Source\PhysX\physx\samples\pxtoolkit\src\PxTkFPS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Source\PhysX\physx\samples\pxtoolkit\src\PxTkMatrixUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Source\PhysX\physx\samples\pxtoolkit\src\PxTkRandom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Source\PhysX\physx\samples\pxtoolkit\src\PxTkStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Source\PhysX\physx\samples\pxtoolkit\include\PxTkBmpLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Source\PhysX\physx\samples\pxtoolkit\include\PxTkFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Source\PhysX\physx\samples\pxtoolkit\include\PxTkFPS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Source\PhysX\physx\samples\pxtoolkit\include\PxTkMatrixUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Source\PhysX\physx\samples\pxtoolkit\include\PxTkNamespaceMangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Source\PhysX\physx\samples\pxtoolkit\include\PxTkRandom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Source\PhysX\physx\samples\pxtoolkit\include\PxTkStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Source\PhysX\physx\samples\pxtoolkit\include\PxToolkit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Source\PhysX\physx\samples\compiler\cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{10E9CD09-AB1C-35C0-B3C0-19263C3CB3CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DF2D4DF2-BB2E-3260-880A-2071E1A1941D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

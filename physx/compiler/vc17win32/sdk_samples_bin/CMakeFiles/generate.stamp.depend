@@ -1,0 +1,21 @@
+# CMake generation dependency list for this directory.
+C:/Source/PhysX/externals/cmakemodules/ConfigureFileMT.cmake
+C:/Source/PhysX/externals/cmakemodules/GetCompilerAndPlatform.cmake
+C:/Source/PhysX/externals/cmakemodules/NvidiaBuildOptions.cmake
+C:/Source/PhysX/externals/cmakemodules/SetOutputPaths.cmake
+C:/Source/PhysX/externals/targa/targa-config-version.cmake
+C:/Source/PhysX/externals/targa/targa-config.cmake
+C:/Source/PhysX/physx/samples/compiler/cmake/CMakeLists.txt
+C:/Source/PhysX/physx/samples/compiler/cmake/SampleBase.cmake
+C:/Source/PhysX/physx/samples/compiler/cmake/SampleFramework.cmake
+C:/Source/PhysX/physx/samples/compiler/cmake/SamplePlatform.cmake
+C:/Source/PhysX/physx/samples/compiler/cmake/SampleRenderer.cmake
+C:/Source/PhysX/physx/samples/compiler/cmake/Samples.cmake
+C:/Source/PhysX/physx/samples/compiler/cmake/SamplesToolkit.cmake
+C:/Source/PhysX/physx/samples/compiler/cmake/windows/CMakeLists.txt
+C:/Source/PhysX/physx/samples/compiler/cmake/windows/SampleBase.cmake
+C:/Source/PhysX/physx/samples/compiler/cmake/windows/SampleFramework.cmake
+C:/Source/PhysX/physx/samples/compiler/cmake/windows/SamplePlatform.cmake
+C:/Source/PhysX/physx/samples/compiler/cmake/windows/SampleRenderer.cmake
+C:/Source/PhysX/physx/samples/compiler/cmake/windows/Samples.cmake
+C:/Source/PhysX/physx/samples/compiler/cmake/windows/SamplesToolkit.cmake
